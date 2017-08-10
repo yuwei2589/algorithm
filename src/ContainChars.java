@@ -11,7 +11,7 @@
  *     如果长字符串为"AZFG", 短字符串为"AZZH", 则返回false;
  *
  *     采用类似的hash表示，在此题中，因为简化了题目，以一个int变量的32位bit，即可表示；
- *         
+ *
  * */
 public class ContainChars {
 
